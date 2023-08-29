@@ -5,9 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-KanmaniPriyadharshini-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-KanmaniPriyadharshini-yellow)](https://stackoverflow.com/users/3687251/KanmaniPriyadharshini-)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+
+I am a passionate and motivated Full Stack Web Developer with a solid foundation in both front-end and back-end development.I am proficient in HTML, CSS, Bootstrap, Java, JavaScript and familiar with modern frameworks like React, nodeJS and MongoDB. I am experienced in building responsive and user-friendly web applications and eager to contribute to collaborative projects, learn new technologies, and grow in a dynamic development environment.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/KanmaniPriyadharshini/count.svg)
